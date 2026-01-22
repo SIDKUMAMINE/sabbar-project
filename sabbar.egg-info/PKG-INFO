@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: sabbar
+Version: 1.0.0
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: pydantic
+Requires-Dist: pydantic-settings
+Requires-Dist: supabase
+Requires-Dist: python-dotenv
